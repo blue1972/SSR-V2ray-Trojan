@@ -85,15 +85,13 @@ SSH端口屏蔽：22端口已屏蔽
 落地：Akari、Tanaka、PoloCloud、DigitalOcean、nexeon、Eons、Ipxo LLC、香港HGC    
 ipv6支持情况：香港、台湾、日本、美国部分节点支持    
 付款方式：支付宝、微信    
-TG频道：https://t.me/linghng2024
->
 套餐是否包含手续费：（手续费7%）    
 只能中国内地使用：是，新疆无法使用
 小白一键客户端：win+mac       
 家宽：无    
 面板:v2board，节点订阅在首页仪表盘【一键订阅】按钮中    
 客服：有        
-    
+TG频道：https://t.me/linghng2024    
 **套餐(所有套餐节点一样):**
 
 
